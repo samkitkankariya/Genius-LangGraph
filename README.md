@@ -1,4 +1,4 @@
-# 🧠 CogniQuest: Advanced AI Research Assistant
+# 🧠 LangGraph: Advanced AI Research Agent
 
 ## Table of Contents
 - [🌟 Introduction](#introduction)
@@ -14,9 +14,9 @@
 
 ## 🌟 Introduction
 
-Welcome to CogniQuest, an advanced AI research assistant powered by LangGraph and cutting-edge language models. This project demonstrates the implementation of a sophisticated agent system capable of conducting in-depth research on various topics, leveraging multiple data sources, and generating comprehensive reports.
+This project demonstrates the implementation of a sophisticated agent system capable of conducting in-depth research on various topics, leveraging multiple data sources, and generating comprehensive reports.
 
-CogniQuest showcases the power of LangGraph, a library for building stateful, multi-step applications using language models. By combining LangGraph with tools like RAG (Retrieval Augmented Generation), web search capabilities, and specialized knowledge bases, we've created an AI assistant that can navigate complex information landscapes and synthesize findings into coherent, well-structured reports.
+Genius LangGraph showcases the power of LangGraph, a library for building stateful, multi-step applications using language models. By combining LangGraph with tools like RAG (Retrieval Augmented Generation), web search capabilities, and specialized knowledge bases, we've created an AI assistant that can navigate complex information landscapes and synthesize findings into coherent, well-structured reports.
 
 ## 🚀 Features
 
@@ -76,8 +76,8 @@ graph TD
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/cogniquest.git
-   cd cogniquest
+   git clone https://github.com/yourusername/Genius-LangGraph.git
+   cd Genius-LangGraph
    ```
 
 2. Install required packages:
@@ -96,7 +96,7 @@ graph TD
 
 1. Open the Jupyter notebook:
    ```
-   jupyter notebook CogniQuest.ipynb
+   jupyter notebook Genius LangGraph.ipynb
    ```
 
 2. Run the cells to initialize the agent and necessary components.
@@ -128,12 +128,3 @@ graph TD
 - Enhance the report generation with data visualization capabilities
 - Implement caching mechanisms for improved performance
 - Develop a user-friendly web interface for easier interaction
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Created with 🧠 by [Your Name] | [Your Website/GitHub]
-
