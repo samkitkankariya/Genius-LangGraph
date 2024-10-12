@@ -10,7 +10,6 @@
 - [🎮 Usage](#usage)
 - [📚 Skills Learned](#skills-learned)
 - [🔬 Future Improvements](#future-improvements)
-- [📜 License](#license)
 
 ## 🌟 Introduction
 
