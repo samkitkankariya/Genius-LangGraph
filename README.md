@@ -15,7 +15,7 @@
 
 This project demonstrates the implementation of a sophisticated agent system capable of conducting in-depth research on various topics, leveraging multiple data sources, and generating comprehensive reports.
 
-Genius LangGraph showcases the power of LangGraph, a library for building stateful, multi-step applications using language models. By combining LangGraph with tools like RAG (Retrieval Augmented Generation), web search capabilities, and specialized knowledge bases, we've created an AI assistant that can navigate complex information landscapes and synthesize findings into coherent, well-structured reports.
+Genius LangGraph showcases the power of LangGraph, a library for building stateful, multi-step applications using language models. By combining LangGraph with tools like RAG (Retrieval Augmented Generation), web search capabilities, and specialized knowledge bases, we've created an AI agent that can navigate complex information landscapes and synthesize findings into coherent, well-structured reports.
 
 ## 🚀 Features
 
